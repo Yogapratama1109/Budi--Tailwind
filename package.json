@@ -1,0 +1,16 @@
+{
+  "name": "Budi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss-cli@latest build ./src/tailwind.css -o ./public/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hover.css": "^2.3.2",
+    "tailwindcss": "^2.1.1"
+  }
+}
